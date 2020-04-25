@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: net.stawrul.OrdersServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 1, Skipped: 0, Time elapsed: 1.091 sec <<< FAILURE! - in net.stawrul.OrdersServiceTest
+whenOrderedBookAvailable_placeOrderDecreasesAmountByOne(net.stawrul.OrdersServiceTest)  Time elapsed: 0.543 sec  <<< ERROR!
+java.lang.NullPointerException
+	at net.stawrul.OrdersServiceTest.whenOrderedBookAvailable_placeOrderDecreasesAmountByOne(OrdersServiceTest.java:66)
+
+checkTest(net.stawrul.OrdersServiceTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at net.stawrul.OrdersServiceTest.checkTest(OrdersServiceTest.java:50)
+
+whenOrderedBookNotAvailable_placeOrderThrowsOutOfStockEx(net.stawrul.OrdersServiceTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: Expected exception: net.stawrul.services.exceptions.OutOfStockException
+

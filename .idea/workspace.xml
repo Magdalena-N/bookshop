@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975d83dc-b4ee-4a1f-8036-663734ebc618" name="Default Changelist" comment="delete import javafx.beans">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="bookshop/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1a82EWgdeflOxk0OYd5GV4yNhNI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="derby" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lab5/PT_bookshop5" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BookshopApplication">
+    <configuration name="OrdersServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.stawrul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.stawrul" />
+      <option name="MAIN_CLASS_NAME" value="net.stawrul.OrdersServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersServiceTest.whenBookIsNotAvailableAfterFirstPositionInOrder_placeOrderThrowsOutOfStockEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.stawrul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.stawrul" />
+      <option name="MAIN_CLASS_NAME" value="net.stawrul.OrdersServiceTest" />
+      <option name="METHOD_NAME" value="whenBookIsNotAvailableAfterFirstPositionInOrder_placeOrderThrowsOutOfStockEx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersServiceTest.whenOneBookInOrderedBooksNotAvailable_placeOrderThrowsOutOfStockEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.stawrul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.stawrul" />
+      <option name="MAIN_CLASS_NAME" value="net.stawrul.OrdersServiceTest" />
+      <option name="METHOD_NAME" value="whenOneBookInOrderedBooksNotAvailable_placeOrderThrowsOutOfStockEx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersServiceTest.whenOrderIsNull_placeOrderThrowsEmptyOrderEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.stawrul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.stawrul" />
+      <option name="MAIN_CLASS_NAME" value="net.stawrul.OrdersServiceTest" />
+      <option name="METHOD_NAME" value="whenOrderIsNull_placeOrderThrowsEmptyOrderEx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersServiceTest.whenOrderWithVariousBooksIsGreaterThanMaxSizeOfOrder_placeOrderThrowsTooLargeOrderEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.stawrul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.stawrul" />
+      <option name="MAIN_CLASS_NAME" value="net.stawrul.OrdersServiceTest" />
+      <option name="METHOD_NAME" value="whenOrderWithVariousBooksIsGreaterThanMaxSizeOfOrder_placeOrderThrowsTooLargeOrderEx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.stawrul.BookshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrdersServiceTest" />
+        <item itemvalue="JUnit.OrdersServiceTest.whenOrderWithVariousBooksIsGreaterThanMaxSizeOfOrder_placeOrderThrowsTooLargeOrderEx" />
+        <item itemvalue="JUnit.OrdersServiceTest.whenBookIsNotAvailableAfterFirstPositionInOrder_placeOrderThrowsOutOfStockEx" />
+        <item itemvalue="JUnit.OrdersServiceTest.whenOrderIsNull_placeOrderThrowsEmptyOrderEx" />
+        <item itemvalue="JUnit.OrdersServiceTest.whenOneBookInOrderedBooksNotAvailable_placeOrderThrowsOutOfStockEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.12012987" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="pt_lab: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="pt_lab: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1d2fbda0" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975d83dc-b4ee-4a1f-8036-663734ebc618" name="Default Changelist" comment="" />
+      <created>1586102788511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586102788511</updated>
+      <workItem from="1586102793304" duration="6431000" />
+      <workItem from="1586111666405" duration="11868000" />
+      <workItem from="1586188341409" duration="21031000" />
+      <workItem from="1586268966547" duration="5066000" />
+      <workItem from="1586617139327" duration="5046000" />
+      <workItem from="1586849951206" duration="16966000" />
+      <workItem from="1587744149525" duration="1668000" />
+      <workItem from="1587808499139" duration="3919000" />
+    </task>
+    <task id="LOCAL-00001" summary="delete import javafx.beans">
+      <created>1587810458348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587810458348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete import javafx.beans" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete import javafx.beans" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Assign_Data_Sources" timestamp="1586191689894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Assign_Data_Sources/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586191689894" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586189277466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586189277466" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586125738628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586125738628" />
+    <state x="455" y="114" key="CommitChangelistDialog2" timestamp="1587810457729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="114" key="CommitChangelistDialog2/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810457729" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586865671848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586865671848" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1587810463008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463008" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1587810463007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.center/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463007" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1587810463007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.left/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463007" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1587810463007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.right/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463007" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1587810463008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463008" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1587810463008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463008" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1587810463008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463008" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1587810463008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810463008" />
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom" timestamp="1586274491428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586274491428" />
+    <state width="1877" height="356" key="GridCell.Tab.2.center" timestamp="1586274491428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.center/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586274491428" />
+    <state width="1877" height="356" key="GridCell.Tab.2.left" timestamp="1586274491428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.left/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586274491428" />
+    <state width="1877" height="356" key="GridCell.Tab.2.right" timestamp="1586274491428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.right/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586274491428" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1586116388060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586116388060" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1586103349290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586103349290" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587810535922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587810535922" />
+    <state x="859" y="410" width="326" height="220" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586104970327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="410" width="326" height="220" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586104970327" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587808498878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1587808498878" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586618823428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/3360.0.1536.832/1920.182.1152.680/0.0.1920.1040@0.0.1920.1040" timestamp="1586618823428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/stawrul/services/OrdersService.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/stawrul/services/OrdersService.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/stawrul/controllers/BooksController.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/stawrul/controllers/BooksController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/stawrul/services/EntityService.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
